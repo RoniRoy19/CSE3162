@@ -17,4 +17,10 @@
     <string name="location">Location</string>
     <string name="todo">TODO</string>
     <string name="thirtythree">33</string>
+    <string name="_23_december_2021">23 December, 2021</string>
+    <string name="_33_c">25°C</string>
+    <string name="_25_c">25°C</string>
+    <string name="_77_f">77°F</string>
+    <string name="view_weather1">VIEW WEATHER</string>
+    <string name="_33_u2109">77℉</string>
 </resources>
