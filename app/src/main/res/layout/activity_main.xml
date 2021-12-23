@@ -42,7 +42,7 @@
         android:layout_height="21dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="21dp"
-        android:text="Latitude "
+        android:text="@string/latitude"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spinner" />
 
@@ -52,7 +52,7 @@
         android:layout_height="23dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="4dp"
-        android:text="Longitude "
+        android:text="@string/longitude"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/bSearch" />
 
@@ -62,7 +62,7 @@
         android:layout_height="25dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
-        android:text="Dhaka, BD"
+        android:text="@string/dhaka_bd"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Lat_text" />
 
@@ -72,7 +72,7 @@
         android:layout_height="80dp"
         android:layout_marginStart="8dp"
         android:layout_marginBottom="8dp"
-        android:contentDescription="Sunrise"
+        android:contentDescription="@string/sunrise"
         android:src="@drawable/ic_sunrise"
         app:layout_constraintBottom_toTopOf="@+id/tv_sunrise_time"
         app:layout_constraintHorizontal_chainStyle="spread_inside"
@@ -84,7 +84,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginBottom="8dp"
-        android:text="04:00 AM"
+        android:text="@string/_04_00_am"
         android:textColor="@android:color/black"
         android:textSize="20sp"
         android:visibility="visible"
@@ -98,7 +98,7 @@
         android:layout_height="80dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:contentDescription="Sunset"
+        android:contentDescription="@string/sunset"
         android:src="@drawable/ic_sunset"
         app:layout_constraintBottom_toTopOf="@+id/tv_sunset_time"
         app:layout_constraintEnd_toEndOf="parent" />
@@ -109,7 +109,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="06:00 PM"
+        android:text="@string/_06_00_pm"
         android:textColor="@android:color/black"
         android:textSize="20sp"
         android:visibility="visible"
@@ -134,7 +134,7 @@
         android:layout_height="26dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="9dp"
-        android:text="23 December, 2021 02:30PM"
+        android:text="@string/_23_december_2021_02_30pm"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/View_weather_btn" />
 
@@ -144,7 +144,7 @@
         android:layout_height="52dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="14dp"
-        android:text="33\u2103"
+        android:text="@string/_33_u2103"
         android:textSize="25sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Date_Time_txt" />

@@ -11,9 +11,7 @@
     <string name="view_weather">View Weather</string>
     <string name="current_location">Current Location</string>
     <string name="sampleLongitude">-89.52229</string>
-    <string name="longitude">Longitude</string>
     <string name="sampleLatitude">32.03349</string>
-    <string name="latitude">Latitude</string>
     <string name="location">Location</string>
     <string name="todo">TODO</string>
     <string name="thirtythree">33</string>
@@ -23,4 +21,13 @@
     <string name="_77_f">77°F</string>
     <string name="view_weather1">VIEW WEATHER</string>
     <string name="_33_u2109">77℉</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="dhaka_bd">Dhaka, BD</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_04_00_am">04:00 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="_06_00_pm">06:00 PM</string>
+    <string name="_23_december_2021_02_30pm">23 December, 2021 02:30PM</string>
+    <string name="_33_u2103">33℃</string>
 </resources>
